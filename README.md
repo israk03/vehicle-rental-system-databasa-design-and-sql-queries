@@ -121,6 +121,7 @@ vehicle-rental-system/
 └── ERD Link # Link to Entity Relationship Diagram
 
 
+
 ## 💡 Key Features
 
 - **Normalized Database Design**: Tables follow proper normalization principles

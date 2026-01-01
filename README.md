@@ -100,8 +100,10 @@ Finds vehicles with more than 2 bookings using aggregation and group filtering.
 ### Setup Instructions
 
 1. **Create the database:**
-CREATE DATABASE vehicle_rental_system;
-USE vehicle_rental_system;
+   ```sql
+   CREATE DATABASE vehicle_rental_system;
+   USE vehicle_rental_system;
+
 
 2. **Create tables:**
 Run the SQL schema from the ERD or create tables using the structure defined above.

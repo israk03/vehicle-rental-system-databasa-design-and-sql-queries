@@ -113,12 +113,13 @@ Insert test data for Users, Vehicles, and Bookings tables.
 Run the queries from `queries.sql` to retrieve and analyze data.
 
 ## 📁 Project Structure
-
+```
 vehicle-rental-system/
 │
 ├── README.md # Project documentation (this file)
 ├── queries.sql # All SQL queries with solutions
 └── ERD Link # Link to Entity Relationship Diagram
+```
 
 
 
